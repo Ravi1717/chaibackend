@@ -1,1 +1,1 @@
-An example app.
+An example app for starting a backend.
